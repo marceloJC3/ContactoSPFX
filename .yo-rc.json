@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "contacto",
+    "libraryId": "dd2bb16f-ffa0-4762-8d89-f85806c94e85",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
